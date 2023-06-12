@@ -2,7 +2,7 @@
 Project4- Jessica Tabak, Holly Martin, Caleb Thornsbury, Vanat Tham
 
 
-##-Caleb##
+##Caleb
 
 My part of this project was to help us decide what models to use and then tune the parameters to create models with the best accuracy for this dataset. 
 
